@@ -4,7 +4,6 @@
 	<modelVersion>4.0.0</modelVersion>
 	<packaging>pom</packaging>
 	<modules>
-		<module>e-commerce-common</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
