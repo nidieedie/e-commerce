@@ -4,6 +4,8 @@
 	<modelVersion>4.0.0</modelVersion>
 	<packaging>pom</packaging>
 	<modules>
+		<module>e-commerce-common</module>
+		<module>e-commerce-mvc-config</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -75,6 +77,7 @@
 			<artifactId>commons-collections4</artifactId>
 			<version>4.4</version>
 		</dependency>
+
 	</dependencies>
 	<dependencyManagement>
 		<!--  spring cloud 依赖  -->
